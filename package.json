@@ -1,0 +1,22 @@
+{
+  "name": "codin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giezim/project-web-scraping.git"
+  },
+  "author": "Giezi Carmona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giezim/project-web-scraping/issues"
+  },
+  "homepage": "https://github.com/giezim/project-web-scraping#readme",
+  "dependencies": {
+    "puppeteer": "^19.7.5"
+  }
+}
